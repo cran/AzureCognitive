@@ -2,9 +2,9 @@
 
 [![CRAN](https://www.r-pkg.org/badges/version/AzureCognitive)](https://cran.r-project.org/package=AzureCognitive)
 ![Downloads](https://cranlogs.r-pkg.org/badges/AzureCognitive)
-[![Build Status](https://asiadatascience.visualstudio.com/AzureR/_apis/build/status/Azure.AzureCognitive?branchName=master)](https://asiadatascience.visualstudio.com/AzureR/_build/latest?definitionId=12&branchName=master)
+![R-CMD-check](https://github.com/Azure/AzureVM/workflows/R-CMD-check/badge.svg)
 
-A package to work with [Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/). Both a Resource Manager interface and a client interface to the REST API are provided.
+A package to work with [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/). Both a Resource Manager interface and a client interface to the REST API are provided.
 
 The primary repo for this package is at https://github.com/Azure/AzureCognitive; please submit issues and PRs there. It is also mirrored at the Cloudyr org at https://github.com/cloudyr/AzureCognitive. You can install the development version of the package with `devtools::install_github("Azure/AzureCognitive")`.
 
